@@ -28,6 +28,16 @@ Em termos de bancos de dados, o relatório destaca o crescimento dos bancos de d
 
 Apesar de algumas limitações, o Technology Radar Volume 30 se mostra uma leitura enriquecedora e inspiradora, trazendo insights práticos sobre como aplicar tendências emergentes no dia a dia do desenvolvimento. Ele me apresentou novas abordagens tecnológicas que não apenas ampliaram meu conhecimento, mas também me mostraram maneiras claras de aplicá-las nos meus projetos. Embora alguns temas pudessem ter sido mais explorados, a robustez do conteúdo e a clareza das recomendações fazem deste um documento essencial para qualquer profissional de tecnologia que busca se manter à frente das mudanças.
 
+# “Microservices” - Martin Fowler e James Lewis - Resenha Crítica
+
+## Resenha
+
+O artigo "Microservices", de Martin Fowler e James Lewis, apresenta uma abordagem arquitetural que promove a divisão de grandes sistemas em componentes menores e independentes, denominados microsserviços. Cada um desses serviços é responsável por uma funcionalidade específica e opera de forma autônoma, comunicando-se com os demais por meio de APIs, o que favorece a escalabilidade e a modularidade do sistema. Essa estrutura possibilita que diferentes equipes possam desenvolver, testar e implantar seus serviços de maneira independente, sem dependências rígidas entre as partes.
+
+Fowler e Lewis argumentam que, ao contrário das arquiteturas monolíticas, os microsserviços trazem maior flexibilidade e resiliência. Isso ocorre porque falhas em um serviço individual não comprometem o funcionamento de todo o sistema, o que facilita o isolamento de problemas e a manutenção de um serviço contínuo. No entanto, eles também destacam que essa abordagem impõe novos desafios, como a necessidade de uma infraestrutura sólida para gerenciar a comunicação entre os serviços, além de exigir soluções eficazes para o gerenciamento de dados distribuídos, monitoramento complexo e depuração mais difícil.
+
+Os autores explicam que os microsserviços são particularmente adequados para sistemas de grande porte que exigem constante evolução e adaptação, permitindo que novas funcionalidades sejam implementadas com maior agilidade. No entanto, adotar essa arquitetura exige uma equipe altamente capacitada, além de ferramentas especializadas para lidar com a complexidade de uma operação distribuída. O artigo sugere que empresas com alta maturidade em desenvolvimento de software, e que buscam flexibilidade na evolução de seus produtos, podem encontrar nos microsserviços uma solução eficaz para acelerar o ciclo de desenvolvimento e responder rapidamente às mudanças de mercado.
+
 ## Assinatura
 
 *Resenha por:*
